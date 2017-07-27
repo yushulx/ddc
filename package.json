@@ -1,0 +1,15 @@
+{
+  "name": "ddc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yushulx",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0",
+    "urlencode": "^1.1.0"
+  }
+}
